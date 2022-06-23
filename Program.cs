@@ -31,8 +31,37 @@ int puertas = 5;
 int ruedas = 4;
 string marca = "volvo";
 bool ITV = true;
+
+string mesa = "La mesa ";
+float peso = 35.7f;
+float largo = 2.4f;
+string material = "caoba";
+string color = "Cafe";
+
+
+
 Console.WriteLine("=== Ejercicio 2 ===");
-Console.WriteLine( coche + "tiene " + puertas+ " puertas  cuenta con sus " + ruedas + " rueda nuevas, es de la marca " + marca + " y cuenta con ITV: " + ITV );
+Console.WriteLine( coche + "tiene " + puertas+ " puertas  cuenta con sus " + ruedas + " ruedas nuevas, es de la marca " + marca + " y cuenta con ITV: " + ITV + " es decir vigente" );
+Console.WriteLine(mesa + " tiene un peso de " + peso + " kilos y un largo de " + largo + " metros, su material es de "+ material + " y su color es " + color);
+Console.WriteLine("");
+
+// Ejercicio 3
+
+
+float numero1  = 25.5f;
+int numero2 = 18;
+char letra = 'a';
+Console.WriteLine("=== Ejercicio 3 ===");
+Console.WriteLine(numero1 >= numero2 && numero2 == 18);
+Console.WriteLine(letra == 'a' ||  letra == numero1);
+
+
+
+
+
+
+
+
 
 
 
