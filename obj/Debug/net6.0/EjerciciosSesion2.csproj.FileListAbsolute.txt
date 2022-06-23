@@ -1,0 +1,15 @@
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\bin\Debug\net6.0\EjerciciosSesion2.exe
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\bin\Debug\net6.0\EjerciciosSesion2.deps.json
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\bin\Debug\net6.0\EjerciciosSesion2.runtimeconfig.json
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\bin\Debug\net6.0\EjerciciosSesion2.dll
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\bin\Debug\net6.0\EjerciciosSesion2.pdb
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\obj\Debug\net6.0\EjerciciosSesion2.csproj.AssemblyReference.cache
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\obj\Debug\net6.0\EjerciciosSesion2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\obj\Debug\net6.0\EjerciciosSesion2.AssemblyInfoInputs.cache
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\obj\Debug\net6.0\EjerciciosSesion2.AssemblyInfo.cs
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\obj\Debug\net6.0\EjerciciosSesion2.csproj.CoreCompileInputs.cache
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\obj\Debug\net6.0\EjerciciosSesion2.dll
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\obj\Debug\net6.0\refint\EjerciciosSesion2.dll
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\obj\Debug\net6.0\EjerciciosSesion2.pdb
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\obj\Debug\net6.0\EjerciciosSesion2.genruntimeconfig.cache
+F:\Openbootcamp\curso_c#\EjerciciosSesion2\obj\Debug\net6.0\ref\EjerciciosSesion2.dll
