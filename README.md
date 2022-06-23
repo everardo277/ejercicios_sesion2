@@ -1,1 +1,1 @@
-# ejercicios de la sesion 2 
+# Ejercicios de la sesion 2 del curso de C# en Open botcamp
